@@ -1,16 +1,14 @@
-## Hi there 👋
+## Buenaaaas
+Estudiante de ITC en el Tec de Monterrey. Construyo software full-stack y estoy desarrollando Ladder, un sistema de gestión que ya opera en un restaurante.
 
-<!--
-**Aguilarp05/Aguilarp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
+![Skills](https://skillicons.dev/icons?i=python,swift,js,react,vite,electron,fastapi,mysql,supabase,git)
 
-Here are some ideas to get you started:
+### Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilarp05&layout=compact&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estadísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=Aguilarp05&show_icons=true&hide_border=true)
+
+### Contacto
+[LinkedIn](https://www.linkedin.com/in/juanav)
