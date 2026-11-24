@@ -5,7 +5,7 @@ Estudiante de ITC en el Tec de Monterrey. Construyo software full-stack y estoy 
 ![Skills](https://skillicons.dev/icons?i=python,swift,js,react,vite,electron,fastapi,mysql,supabase,git)
 
 ### Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilarp05&layout=compact&hide_border=true)
+![Skills](https://skillicons.dev/icons?i=python,swift,js,html,css,react,vite,electron,fastapi,mysql,supabase,git)
 
 ### Estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=Aguilarp05&show_icons=true&hide_border=true)
